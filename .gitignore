@@ -1,1 +1,4 @@
-*.aux\n*.log\n*.synctex*\n**/inputs
+*.aux
+*.log
+*.synctex*
+**/inputs
